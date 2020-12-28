@@ -16,6 +16,6 @@
 <p> 👯 I’m looking to collaborate on educational projects. </p>
 <p> 😄 Pronouns: she / her / ela </p>
 <p> 📫 How to reach me: </p>
-  <li> <a href="https://www.linkedin.com/in/ThaisGabriele"> <img src="https://github.com/ThaisGabriele/ThaisGabriele/blob/main/images/linkedin.png" width="16"> </img>  https://www.linkedin.com/in/ThaisGabriele </a> </li>
+  <li> <a href="https://www.linkedin.com/in/thais-gabriele/"> <img src="https://github.com/ThaisGabriele/ThaisGabriele/blob/main/images/linkedin.png" width="16"> </img>  Linkedin </a> </li>
    <li>  <a href="https://twitter.com/tgdev_"> <img src="https://github.com/ThaisGabriele/ThaisGabriele/blob/main/images/twitter.png" width="16"> </img> 
- https:/twitter.com/tgdev_ </a> </li>
+Twitter </a> </li>

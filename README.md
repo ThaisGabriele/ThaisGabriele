@@ -1,5 +1,5 @@
 <h2>  Hi there 👋 </h2>
-<img src="https://github.com/ThaisGabriele/ThaisGabriele/blob/main/images/cover1.png" >
+<img src="https://github.com/ThaisGabriele/ThaisGabriele/blob/main/images/cover.png" >
 <center>
 <table>
     <tr>

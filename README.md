@@ -11,9 +11,9 @@
 
 
 <p> 🔭 I’m graduated in Computer Science. </p>
-<p> ⚡ Programming languages I know: C/C++, Java, Python and JavaScript.
-<p> 🌱 I’m currently learning more about Educational Data Mining and Learning Analytics. I'm also trying to improve my skills in data visualization. </p>
-<p> 👯 I’m looking to collaborate on educational projects. </p>
+<p> ⚡ Programming languages I know: Python, R, C/C++, Java, and JavaScript.
+<p> 🧠 I’m always learning something so currently I'm learning more about how to deal with Educational Data and Sports Data. I'm also trying to improve my skills in Data Visualization and in Statistics </p>
+<p> 👯 I’m looking to collaborate on educational projects or Sport Analytics projects </p>
 <p> 😄 Pronouns: she / her / ela </p>
 <p> 📫 How to reach me: </p>
   <li> <a href="https://www.linkedin.com/in/thais-gabriele/"> <img src="https://github.com/ThaisGabriele/ThaisGabriele/blob/main/images/linkedin.png" width="16"> </img>  Linkedin </a> </li>
